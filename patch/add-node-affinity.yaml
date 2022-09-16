@@ -7,4 +7,4 @@ spec:
           - key: cloud
             operator: In
             values:
-            - azure
+            - aws
